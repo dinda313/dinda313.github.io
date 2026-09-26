@@ -2,19 +2,9 @@
   padding-top: 6rem;
   background-color: #e0f2f1;
 }
-.jumbotron h1 {
-  color: #0f766e;
-}
 #projects {
   background-color: #e0f2f1;
 }
 section {
   padding-top: 5rem;
-}
-.btn-dark {
-  background-color: #1da59e;
-  border: none;
-}
-.btn-dark:hover {
-  background-color: #0f766e;
 }

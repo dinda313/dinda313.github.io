@@ -1,42 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap');
-
 body {
-  font-family: 'Poppins', sans-serif;
+  font-family: sans-serif;
 }
-
 .jumbotron {
   padding-top: 7rem;
   background-color: #e0f2f1;
 }
-
 #projects {
   background-color: #e0f2f1;
 }
-
 section {
   padding-top: 5rem;
 }
-
-#projects .card-img-top {
-  height: 250px;
-  object-fit: cover;
-}
-
-#sertifikasi .card-img-top {
-  height: 280px;
-  object-fit: contain;
-  background: white;
-  padding: 10px;
-}
-
-.card {
-  border: none;
-  border-radius: 12px;
-  box-shadow: 0 4px 15px rgba(0,0,0,0.08);
-  transition: 0.3s;
-}
-
-.card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 10px 25px rgba(29,165,158,0.2);
+#sertifikasi {
+  background-color: #ffffff;
 }
